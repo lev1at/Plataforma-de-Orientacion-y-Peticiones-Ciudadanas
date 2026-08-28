@@ -5,3 +5,13 @@ body {
   line-height: 1.5;
   background-color: #f7f7f7;
 }
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 10px;
+}
+
+label
